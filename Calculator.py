@@ -3,6 +3,10 @@ while True:
     print("============================")
     print("      PYTHON CALCULATOR")
     print("============================")
+    
+    Name = str(input("Enter Your Name"))
+    print("Welcome", Name)
+    
 
     Num_1 = int(input("Enter your First Number: "))
     Num_2 = int(input("Enter your Second Number: "))
