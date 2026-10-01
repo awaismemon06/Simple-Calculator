@@ -4,7 +4,7 @@ while True:
     print("      PYTHON CALCULATOR")
     print("============================")
     
-    Name = str(input("Enter Your Name"))
+    Name = str(input("Enter Your Name: "))
     print("Welcome", Name)
     
 
@@ -39,5 +39,5 @@ while True:
     again = input("\nDo you want to calculate again? (yes/no): ")
 
     if again == "no":
-        print("Thank you for using the calculator!")
+        print("Thank you", Name, "for using the calculator!")
         break
