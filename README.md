@@ -9,6 +9,6 @@ A simple and interactive Python calculator built to practice user input, conditi
 - Calculate again option
 - Simple user-friendly menu
 
-# How to Run
-Run the `Calculator.py` file using Python.
+# 🚀 Try It Online
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hPCWfxmGVRBO6_zUJRVkzZs-cuNOVDdc?usp=sharing)
 
