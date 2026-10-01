@@ -10,5 +10,5 @@ A simple and interactive Python calculator built to practice user input, conditi
 - Simple user-friendly menu
 
 # How to Run
-Run the Calculator.py file using Python.
+Run the "Calculator.py" file using Python.
 
